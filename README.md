@@ -1,2 +1,3 @@
 # qPCR_m6A
-Figures and diffrential gene expression analysis of qPCR reuslts
+Batch effect correction
+Differential gene expression analysis of qPCR results
