@@ -1,3 +1,3 @@
 # qPCR_m6A
-Batch effect correction
+Batch effect adjustement/
 Differential gene expression analysis of qPCR results
